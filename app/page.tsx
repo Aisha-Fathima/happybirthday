@@ -334,7 +334,7 @@ export default function Home() {
                 era mazak udana has become his lifestyle choice atp. Matlab dedication dekho, consistency dekho… kisi aur cheez mein itni mehnat ki hoti toh aaj CEO hota(I am sure one day he will be and apne marzi ka maalik toh waise bhi hai)
               </p>
               <p className="article-text">
-                But jitna bhi roast karle, end of day he will be by my side. Ab tak pata nhi kitni baar same same kahani suna suna ke paka chuki hu, but disown nhi kiya ab tak.Scene kuch bhi ho, end mein yeh mere saath hi khada hota hai. Bahut accha dost hai, one of the best infact. 22 saal ho gaye, and Aditya has upgraded. Maybe a more chaotic version, but still good. He is definitely got older, but wiser? maybe. Survived college because of him, very grateful for that.
+                But jitna bhi roast karle, end of day he will be by my side. Ab tak pata nhi kitni baar same same kahani suna suna ke paka chuki hu, but disown nhi kiya ab tak.Scene kuch bhi ho, end mein yeh mere saath hi khada hota hai. Bahut accha dost hai, one of the best infact. 22 saal ho gaye, and Aditya has upgraded. Maybe a more chaotic version, but still good. He is definitely got older, but wiser? maybe.
               </p>
             </article>
 
